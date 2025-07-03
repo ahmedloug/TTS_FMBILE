@@ -13,5 +13,3 @@ curl "http://localhost:8000/tts?text=Attention%2C%20speed%20limit%20is%2030%20ki
 Pour le BT ,echo $XDG_RUNTIME_DIR pour voir pulseaudio ensuite add les lines correspendantes sur devcontainer.json 
 
 
-<!-- sudo apt install socat
-sudo socat TCP-LISTEN:9696,fork TCP:localhost:9696 -->
