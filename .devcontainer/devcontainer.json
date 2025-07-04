@@ -8,8 +8,8 @@
     "--device=/dev/snd",
     "-e", 
     "PULSE_SERVER=unix:/tmp/pulse-socket",
-    "-p=192.168.20.107:8000:8000",
-    "-p=192.168.20.107:9696:9696"
+    "-p=YOURIPADRESS:8000:8000",
+    "-p=YOURIPADRESS:9696:9696"
   ],
   "workspaceFolder": "/app",
   "customizations": {
