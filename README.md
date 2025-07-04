@@ -67,7 +67,9 @@ Puis ajoutez les lignes correspondantes dans votre `devcontainer.json` pour le m
 
 ---
 
-## 🎮 Utilisation
+##  Utilisation
+
+### 0. Dans le Devcontainer.json mettez votre adresse IP 
 
 ### 1. Démarrer le Serveur TTS
 
