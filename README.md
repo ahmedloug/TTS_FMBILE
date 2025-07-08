@@ -53,6 +53,8 @@ apt update && apt install -y alsa-utils
 apt update && apt install -y curl
 apt update && apt install -y pulseaudio
 apt update && apt install -y sox
+apt-get update && apt-get install -y alsa-utils sox libsox-fmt-all
+
 ```
 
 ### Configuration PulseAudio (pour containers)
